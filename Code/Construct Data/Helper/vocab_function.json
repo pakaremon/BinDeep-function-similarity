@@ -1,0 +1,10 @@
+{
+     "clamav":["sigtool", "clambc", "clamconf", "clamscan", "freshclam", "libclamav.so.9.0.0"],
+                
+     "curl":["curl"],
+     "nmap":["ncat", "nmap", "nping"],
+     "openssl":["afalg.so", "capi.so", "dasync.so", "fips.so", "legacy.so", "libcrypto.so.3", "libssl.so.3",
+     "openssl", "ossltest.so", "padlock.so"],
+     "unrar":["unrar"],
+     "zlib":["libz.so.1.2.11", "minigzip", "minigzip64", "minigzipsh"]
+}
